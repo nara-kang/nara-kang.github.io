@@ -10,7 +10,7 @@ profile_picture:
  at Michigan State University.
 <p>
  I am studying comparative politics and political economy,
- with a focus on income inequality, redistribution, labor market policy, welfare states,
+ with a focus on income inequality, redistribution, labor market policy, 
  and electoral systems.
  My dissertation explores how domestic economic conditions 
  shape political outcomes under different institutional contexts. 
