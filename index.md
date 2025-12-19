@@ -20,7 +20,7 @@ profile_picture:
  support redistribution? How do such preferences vary by institutional contexts?;
  (2) when the working class is divided into two groups, labor market insiders with job security
  and labor market outsiders without it,
- under what conditions labor market outsiders support radical right parties?; and, 
+ under what conditions the heterogeneity within the working class affects support for radical right parties?; and, 
  (3) why elderly poverty does not translate into preferences for redistribution?
 
 <p>
