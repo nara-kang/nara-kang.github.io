@@ -2,7 +2,6 @@
 layout: research
 title: Research
 slug: /research
-items:
 
 working_papers:
   - title: "The Structure of Inequality, Electoral Institutions, 
