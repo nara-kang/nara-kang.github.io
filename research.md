@@ -2,7 +2,6 @@
 layout: research
 title: Research
 slug: /research
-
 working_papers:
   - title: "The Structure of Inequality, Electoral Institutions, 
   and Redistribution"
@@ -15,5 +14,4 @@ working_papers:
   Politics"
   - title: "No Country for Old Men: Elderly Poverty, 
   Clientelism, and Redistribution"
-
 ---
