@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="work">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+          
+          <h2 class="research-heading">Publications</h2>
+          {% if page.publications and page.publications.size > 0 %}
+            <ul class="research-list">
+              {% for pub in page.publications %}
+              <li class="work-item">
+                <span class="work-text">
+                  <strong>{{ pub.title }}</strong>
+                  {% if pub.authors %}<br>{{ pub.authors }}{% endif %}
+                  {% if pub.venue %}<br><em>{{ pub.venue }}{% if pub.year %}, {{ pub.year }}{% endif %}</em>{% endif %}
+                  {% if pub.link %}<br><a href="{{ pub.link }}" target="_blank">View publication</a>{% endif %}
+                </span>
+              </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <div class="work-item">
+              <span class="work-text">Coming soon.</span>
+            </div>
+          {% endif %}
+
+          <h2 class="research-heading">Working Papers</h2>
+          {% if page.working_papers and page.working_papers.size > 0 %}
+            <ul class="research-list">
+              {% for paper in page.working_papers %}
+              <li class="work-item">
+                <span class="work-text">
+                  <strong>{{ paper.title }}</strong>
+                  {% if paper.authors %}<br>{{ paper.authors }}{% endif %}
+                  {% if paper.status %}<br><em>{{ paper.status }}</em>{% endif %}
+                  {% if paper.abstract %}<br>{{ paper.abstract }}{% endif %}
+                  {% if paper.link %}<br><a href="{{ paper.link }}" target="_blank">View paper</a>{% endif %}
+                </span>
+              </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <div class="work-item">
+              <span class="work-text">Coming soon.</span>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+    {% include foot.html %}
+  </body>
+</html>
