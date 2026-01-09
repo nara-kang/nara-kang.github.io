@@ -25,3 +25,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "csv"
 #
 gem "base64"
+##
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.7"
