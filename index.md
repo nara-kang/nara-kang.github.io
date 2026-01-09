@@ -24,5 +24,5 @@ profile_picture:
  (3) why elderly poverty does not translate into preferences for redistribution?
 
 <p>
-  You can find my <a href="https://www.dropbox.com/scl/fi/9ognsfwz8wshftet4qy8b/dropbox_Nara_Kang_cv_Dec16.pdf?rlkey=j644dhvpfa2mr5fw91zv8yye1&st=0yhwxlly&dl=0">CV</a>.
+  You can find my CV <a href="https://www.dropbox.com/scl/fi/tqxvonmwg6u55zs7gi2yg/dropbox_Nara_Kang_cv_Jan8_CV.pdf?rlkey=x5d7b9837dyukcqx6g9de1eul&st=5t0xljcz&dl=0">here</a>.
 </p>
