@@ -25,4 +25,5 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "csv"
 #
 gem "base64"
-##
+## add google sitemap
+gem "jekyll-sitemap"

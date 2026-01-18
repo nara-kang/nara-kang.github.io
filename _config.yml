@@ -3,7 +3,7 @@
 
 title: Nara Kang
 description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
+baseurl: ""
 url: "https://nara-kang.github.io"
 
 header:
@@ -27,6 +27,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Excluded items
 exclude:
