@@ -24,5 +24,4 @@ profile_picture:
  (3) why does elderly poverty fail to lead to greater demand for redistribution?
 
 <p>
-  You can find my CV <a href="https://www.dropbox.com/scl/fi/neyzxlx9zzs774meq1pkq/dropbox_Nara_Kang_CV.pdf?rlkey=g6iktkw8xmd9cztx3lcyqy3fu&st=f2thb4eg&dl=0">here</a>.
 </p>
