@@ -21,7 +21,7 @@ profile_picture:
  (2) when the working class is divided into two groups, labor market insiders with job security
  and labor market outsiders without it,
  under what conditions the heterogeneity within the working class affects support for radical right parties?; and, 
- (3) why elderly poverty does not translate into preferences for redistribution?
+ (3) why does elderly poverty fail to lead to greater demand for redistribution?
 
 <p>
   You can find my CV <a href="https://www.dropbox.com/scl/fi/neyzxlx9zzs774meq1pkq/dropbox_Nara_Kang_CV.pdf?rlkey=g6iktkw8xmd9cztx3lcyqy3fu&st=f2thb4eg&dl=0">here</a>.
